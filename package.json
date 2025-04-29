@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@mui/x-data-grid-premium": "https://pkg.csb.dev/mui/mui-x/commit/d008c7eb/@mui/x-data-grid-premium",
-    "@mui/x-license": "https://pkg.csb.dev/mui/mui-x/commit/d008c7eb/@mui/x-license",
-    "@mui/x-telemetry": "https://pkg.csb.dev/mui/mui-x/commit/d008c7eb/@mui/x-telemetry"
+    "@mui/x-data-grid-premium": "https://pkg.csb.dev/mui/mui-x/commit/83df1e21/@mui/x-data-grid-premium",
+    "@mui/x-license": "https://pkg.csb.dev/mui/mui-x/commit/83df1e21/@mui/x-license",
+    "@mui/x-telemetry": "https://pkg.csb.dev/mui/mui-x/commit/83df1e21/@mui/x-telemetry"
   }
 }
