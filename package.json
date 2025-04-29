@@ -12,6 +12,6 @@
   "dependencies": {
     "@mui/x-data-grid-premium": "https://pkg.csb.dev/mui/mui-x/commit/d008c7eb/@mui/x-data-grid-premium",
     "@mui/x-license": "https://pkg.csb.dev/mui/mui-x/commit/d008c7eb/@mui/x-license",
-    "@mui/x-telemetry": "npm:@vraksha/mui-x-telemetry-demo@8.0.0-alpha.2"
+    "@mui/x-telemetry": "npm:@vraksha/mui-x-telemetry-demo@8.0.0-alpha.3"
   }
 }
