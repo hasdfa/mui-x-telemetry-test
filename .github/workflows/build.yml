@@ -24,3 +24,5 @@ jobs:
         run: npm ci
       - name: Show mui info
         run: npx @mui/envinfo
+      - name: Cat postinstall
+        run: cat node_modules/@mui/x-telemetry/context.js
