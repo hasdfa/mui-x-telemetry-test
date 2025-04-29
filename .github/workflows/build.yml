@@ -25,4 +25,4 @@ jobs:
       - name: Show mui info
         run: npx @mui/envinfo
       - name: Cat postinstall
-        run: cat node_modules/@mui/x-telemetry/context.js
+        run: cat node_modules/@vraksha/mui-x-telemetry-demo/context.js
